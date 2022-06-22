@@ -1,0 +1,12 @@
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\bin\Debug\Caledario.exe.config
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\bin\Debug\Caledario.exe
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\bin\Debug\Caledario.pdb
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.csproj.AssemblyReference.cache
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.Form1.resources
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.Properties.Resources.resources
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.Usercontrol1.resources
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.UserControlDays.resources
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.csproj.GenerateResource.cache
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.csproj.CoreCompileInputs.cache
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.exe
+C:\Users\bruna.fmartinez2\source\repos\Caledario\Caledario\obj\Debug\Caledario.pdb
